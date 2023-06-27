@@ -1,2 +1,2 @@
 # keycloak-adapter
-Springboot application for login and registration with Keycloak
+Securing application using Keycloak, Angular for frontend and Springboot for backend.
