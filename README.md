@@ -1,2 +1,4 @@
 # keycloak-adapter
-Securing application using Keycloak, Angular for frontend and Springboot for backend.
+Springboot application which uses Keycloak for authentication & authorization.
+It can be easily used wit your custom frontend client. 
+
